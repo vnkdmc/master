@@ -1,2 +1,2 @@
-# master
-masterscript sha 256
+# script
+script
